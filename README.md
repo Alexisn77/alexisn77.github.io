@@ -17,7 +17,7 @@
 
 <!--Introduction with picture-->
 	<table bgcolor="white" width="90%" align="center"><tr>
-	    <td><img src="mr-pants-with-hat.png" height="150"></td>
+	    <td><img src="Se1f Potrait.png" height="150"></td>
 	    <td><h4><font face="arial" size="4">Hello, world. I am Alexis.This is a brief 2-3 sentence description introducing who I am and what I am passionate about.</font></h4></td>
 	</tr></table><br>
 	<!--About Me-->
@@ -56,7 +56,7 @@ sociology, community service, and photography.
 	</font></h1>
    	<table width="90%" align="center"><tr>
 		<td align="center"><a href="Hybrid_.png"><img src="Hybrid_.png" height="250"></a></td>
-   		<td align="center"><a href="Juice wrld done.png"><img src="Juice wrld done.png" height="250"></a></td>
+   		<td align="center"><a href="Juice wrld done (1).png"><img src="Juice wrld done (1).png" height="250"></a></td>
 		<td align="center"><a href="Cucopuffs.png"><img src="Cucopuffs.png" height="250"></a></td>
    	</tr><tr>
    		<td>I'm most proud of the fantastic beast project that we've done since it captures the creativity towards adding certain felines together making a hybrid of a panther, lion, and a tiger.</td>
