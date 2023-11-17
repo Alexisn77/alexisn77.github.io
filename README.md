@@ -55,12 +55,12 @@ sociology, community service, and photography.
 			Visual Design Portfolio
 	</font></h1>
    	<table width="90%" align="center"><tr>
-		<td align="center"><a href="1.jpg"><img src="1.jpg" height="250"></a></td>
-   		<td align="center"><a href="2.jpg"><img src="2.jpg" height="250"></a></td>
-		<td align="center"><a href="3.jpg"><img src="3.jpg" height="250"></a></td>
+		<td align="center"><a href="Hybrid_.png"><img src="Hybrid_.png" height="250"></a></td>
+   		<td align="center"><a href="Juice wrld done.png"><img src="Juice wrld done.png" height="250"></a></td>
+		<td align="center"><a href="Cucopuffs.png"><img src="Cucopuffs.png" height="250"></a></td>
    	</tr><tr>
    		<td>I'm most proud of the fantastic beast project that we've done since it captures the creativity towards adding certain felines together making a hybrid of a panther, lion, and a tiger.</td>
-   		<td>In this piece I tried to capture the idea of xenophobia, rights, and the injustice towrads Mexicans.</td>
+   		<td>In this piece I tried to capture the idea of this artist known as Juice Wrld who led an impact towards people who are suffering from addiction, depression, and could be scene as the voice of those who are afriad to speak.</td>
    		<td>This piece was inspired from using Cuco who is one of my favorite artist and with his history of using narcotics in certain songs shows the trippy vibe of his music.</td>
    	</tr></table><br>
 
